@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Alec Pham (AlePam109)
 
 ## About Me
-I'm a Computer Science (Cybersecurity) major at Arizona State University (GPA: 3.72), with hands-on experience in data validation, project management, and cybersecurity. I'm passionate about building solutions that enhance transparency, security, and community engagement. My background spans supervising large teams, developing web apps, cybersecurity gamification, and leading marketing strategies.
+I'm a Computer Science (Cybersecurity) major at Arizona State University, with hands-on experience in data validation, project management, and cybersecurity. I'm passionate about building solutions that enhance transparency, security, and community engagement. My background spans supervising large teams, developing web apps, cybersecurity gamification, and leading marketing strategies.
 
 ---
 
